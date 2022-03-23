@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Alex Murphy
+title: Begenius Learn Up
 image: /img/home-jumbotron.jpg
-heading: Alex Murphy
-subheading: Developer with a flair for design
+heading: Begenius Learn Up
+subheading:  Apprennez gratuitement en ligne
 ---
