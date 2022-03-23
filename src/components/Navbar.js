@@ -41,9 +41,9 @@ const Navbar = class extends React.Component {
         <div className="container flex-around">
           <div className="navbar-brand logo">
             <Link to="/" className="navbar-item" title="Logo">
-              <h1>Brand | Logo</h1>
+              <h1>Begenius Learn Up</h1>
             </Link>
-              <GitHubButton href="https://github.com/simarmannsingh">Follow</GitHubButton>
+              <GitHubButton href="https://t.me/codingtuto">Suivre</GitHubButton>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -64,15 +64,6 @@ const Navbar = class extends React.Component {
             <div className="navbar-start has-text-centered">            
             <Link className="navbar-item" to="/blog">
                 Blog
-              </Link>
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>              
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
               </Link>
             </div>           
           </div>
